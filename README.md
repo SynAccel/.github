@@ -1,1 +1,1 @@
-Welcome to the SynAccel Github page. 
+Welcome to the SynAccel GitHub page. 
